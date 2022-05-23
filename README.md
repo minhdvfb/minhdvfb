@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/nguyenletranminh.svg" width="1200" alt="nguyenletranminh-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -57,6 +57,6 @@
 <h2 align="center">📑 Motivational Quotes 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/nguyenletranminhn-quotes.svg" width="846" height="150" alt="nguyenletranminh-official" />
+  <img src="svg/nguyenletranminh-quotes.svg" width="846" height="150" alt="nguyenletranminh-official" />
 </a>
 
